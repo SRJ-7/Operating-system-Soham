@@ -1,0 +1,7 @@
+1260 : Found By thread :4
+1395 : Found By thread :3
+1435 : Found By thread :3
+1530 : Found By thread :2
+1827 : Found By thread :3
+2187 : Found By thread :3
+Total Vampire Number : 6
